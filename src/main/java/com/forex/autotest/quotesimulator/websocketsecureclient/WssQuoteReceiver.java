@@ -1,7 +1,7 @@
 package com.forex.autotest.quotesimulator.websocketsecureclient;
 
-import org.java_websocket.draFIX.Draft;
-import org.java_websocket.draFIX.Draft_17;
+import org.java_websocket.drafts.Draft;
+import org.java_websocket.drafts.Draft_17;
 
 import java.net.URI;
 import java.net.URISyntaxException;
